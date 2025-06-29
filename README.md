@@ -1,2 +1,2 @@
 # laguna-breeze-lodge
-hotel room booking system
+hotel room booking system.
